@@ -1,8 +1,8 @@
-[![MasterHead](https://www.google.com/search?q=animated+gif+busines+for+background&tbm=isch&ved=2ahUKEwj7rPHukaSEAxXuj2MGHRIEBPwQ2-cCegQIABAA&oq=animated+gif+busines+for+background&gs_lp=EgNpbWciI2FuaW1hdGVkIGdpZiBidXNpbmVzIGZvciBiYWNrZ3JvdW5kSIZFUJ4FWONBcAh4AJABAJgBmgGgAfcYqgEEMC4yNLgBA8gBAPgBAYoCC2d3cy13aXotaW1nwgIEECMYJ8ICBRAAGIAEwgIGEAAYCBgewgIIEAAYCBgHGB6IBgE&sclient=img&ei=0C_JZfuEM-6fjuMPkoiQ4A8&bih=632&biw=1280&rlz=1C1CHBD_enIN967IN967#imgrc=4_WGGb0adravQM)
+([![MasterHead](https://i.gifer.com/74pZ.gif)](https://rishavchanda.io))
 <h1 align="center">Hi 👋, I'm Shivangi</h1>
 <h3 align="center">Data Detective & Quality Guardian: A Dual Role in Tech Excellence</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/search?sca_esv=1eabd946f7bc57df&rlz=1C1CHBD_enIN967IN967&sxsrf=ACQVn0__b8IontUGNNMAz63wtrfnxquLQA:1707683390109&q=animated+gif+coding&tbm=isch&chips=q:animated+gif+coding,online_chips:github+readme:QVN3OPf1hgI%3D&usg=AI4_-kRGAZpWIGaoI0wlZt_PGO0BofNFog&sa=X&sqi=2&ved=2ahUKEwifuOyukKSEAxWbxjgGHSVGCZAQgIoDKAR6BAgNEA8&biw=1280&bih=632&dpr=1.5#imgrc=hG9Wqf67TP1hgM&imgdii=ACvAFDP2G__pNM">
-<img align="left" alt="Coding" width="400" src="https://www.google.com/search?sca_esv=1eabd946f7bc57df&rlz=1C1CHBD_enIN967IN967&sxsrf=ACQVn0__b8IontUGNNMAz63wtrfnxquLQA:1707683390109&q=animated+gif+coding&tbm=isch&chips=q:animated+gif+coding,online_chips:github+readme:QVN3OPf1hgI%3D&usg=AI4_-kRGAZpWIGaoI0wlZt_PGO0BofNFog&sa=X&sqi=2&ved=2ahUKEwifuOyukKSEAxWbxjgGHSVGCZAQgIoDKAR6BAgNEA8&biw=1280&bih=632&dpr=1.5#imgrc=W6oFkUYdbiB3BM&imgdii=hG9Wqf67TP1hgM">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
+<img align="left" alt="Coding" width="400" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif">
 
 
 - 🔭 I’m currently working on [Analyzing sales data for an e commerce store](https://github.com/Shivnagi18/Power-BI-Dashboards)
@@ -28,4 +28,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivnagi18&show_icons=true&locale=en&layout=compact" alt="shivnagi18" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivnagi18&show_icons=true&locale=en" alt="shivnagi18" /></p>
-
